@@ -1,0 +1,2 @@
+mcp-memory-service[sqlite]                                                                                                                                  
+onnxruntime  
